@@ -1,0 +1,2 @@
+<?xml version="1.0" ?><dbbrg>
+<barang hrg="120000" kd_brg="121" nm_brg="HP SNSV" stok="10"/><suplier alt="sungai abu" kd_sup="123" nm_sup="PT Abc"/><beli hrg="100" jml="13" kd_brg="121" kd_sup="123" no_beli="1" tgl="2019/09/12"/><jual jml="21" kd_brg="121" no_pes="1" tgl="2019/09/12"/><beli hrg="200" jml="5" kd_brg="121" kd_sup="123" no_beli="2" tgl="2019/09/12"/><barang hrg="5900" kd_brg="124" nm_brg="Kulkas poloy" stok="21"/><beli hrg="45" jml="3" kd_brg="124" kd_sup="123" no_beli="3" tgl="2019/11/08"/><jual jml="5" kd_brg="124" no_pes="2" tgl="2019/11/08"/></dbbrg>
